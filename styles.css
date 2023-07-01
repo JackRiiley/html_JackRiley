@@ -30,6 +30,14 @@ li {
     display: inline;
 }
 
+.hidden {
+    display: none;
+  }
+
+.active {
+    color: #EFC5A5;
+}
+
 .name {
     text-align: center;
     color: #EFC5A5;
@@ -43,7 +51,3 @@ li {
     border-bottom: 1px solid #888989;
     margin: 2px 0;
   }
-
-.large {
-    height: 10px;
-}

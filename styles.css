@@ -1,0 +1,27 @@
+body {
+background-color: #1255A2;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.name {
+    text-align: center;
+    color: #EFC5A5;
+}
+
+.info {
+    text-align: center;
+}
+
+.divider {
+    border-bottom: 1px solid #888989;
+    margin: 2px 0;
+  }
+
+.large {
+    height: 10px;
+}
+
+.lastname {
+    color: #EFC5A5;
+}
